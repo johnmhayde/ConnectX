@@ -5,11 +5,9 @@ This is a simple Connect4 game that allows you to choose the number of players a
 ## Running the Program
 
 ```
-
 make
 make run
 make clean
-
 ```
 
 - make compiles the program
