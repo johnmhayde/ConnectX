@@ -3,7 +3,7 @@
 This is a Connect4 game that allows you to choose the number of players and the dimensions of the game board. The program runs through a GUI. 
 
 ## Running the Program
-Make sure both the makefile and the package directory are properly. Then, run the program with these commands:
+Make sure the makefile and the package directory are both setup properly. Then, run the program through these commands:
 ```
 make
 make run
