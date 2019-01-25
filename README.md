@@ -9,4 +9,4 @@ make
 make run
 make clean
 ```
-Note: ` make clean ` removes .class files from the package directory
+Note: `make clean` removes .class files from the package directory
